@@ -7,7 +7,7 @@
 - [Business Task](#business-task)
 - [ERD](#Entity-Relationship-Diagram)
 - [Case Study Questions](#Case-Study-Questions)
-- [Link to Solution]
+- [Link to Solution](https://github.com/Phongle7595/8weekSQLChallenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Danny's%20Diner%20Solution.md)
 
 ***
 
