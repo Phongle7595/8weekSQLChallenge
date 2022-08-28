@@ -8,6 +8,7 @@
 - [ERD](#Entity-Relationship-Diagram)
 - [Case Study Questions](#Case-Study-Questions)
 - [Link to Solution](https://github.com/Phongle7595/8weekSQLChallenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Danny's%20Diner%20Solution.md)
+-
 
 ***
 
@@ -31,3 +32,7 @@ due to privacy issues - but he hopes that these examples are enough for you to w
 8. What is the total items and amount spent for each member before they became a member?
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+
+## Key Learning Points
+- Use `JOIN` with agrregation fuctions (`COUNT`,`SUM`)
+- Use window function `DENSE_RANK` with `PARITION BY` and `ORDER BY`
