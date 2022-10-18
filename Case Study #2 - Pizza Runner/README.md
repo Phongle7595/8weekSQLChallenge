@@ -23,6 +23,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 ## Case Study Questions
 # A. Pizza Metrics
+[Solution](https://github.com/Phongle7595/8weekSQLChallenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/A.%20Pizza%20Metrics.md)
 1. How many pizzas were ordered?
 2. How many unique customer orders were made?
 3. How many successful orders were delivered by each runner?
@@ -35,6 +36,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 10. What was the volume of orders for each day of the week?
 
 # B. Runner and Customer Experience
+[Solution](https://github.com/Phongle7595/8weekSQLChallenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.md)
 1. How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
 2. What was the average time in minutes it took for each runner to arrive at the Pizza Runner HQ to pickup the order?
 3. Is there any relationship between the number of pizzas and how long the order takes to prepare?
